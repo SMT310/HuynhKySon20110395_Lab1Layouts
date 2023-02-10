@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HuynhKySon20110395_[Lab1] Layouts</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="username">UserName</string>
+    <string name="phone">Phone No</string>
+    <string name="emailid">Email ID</string>
+</resources>
